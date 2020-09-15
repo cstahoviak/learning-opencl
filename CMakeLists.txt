@@ -5,7 +5,7 @@ cmake_minimum_required(VERSION 3.10.2)
 set(CMAKE_CXX_STANDARD 11)
 
 #  Set the project name
-project(learn-opencl)
+project(learning-opencl)
 
 find_package(OpenCL 1.2 REQUIRED)
 
